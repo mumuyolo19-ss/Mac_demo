@@ -1,0 +1,6 @@
+venv/
+python311/
+python311-build/
+__pycache__/
+*.pyc
+.DS_Store
